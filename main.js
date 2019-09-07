@@ -654,7 +654,7 @@ var MediaService = /** @class */ (function () {
     function MediaService() {
         this.mediaDirectory = [];
         this.mediaDirectory.push(new _media__WEBPACK_IMPORTED_MODULE_1__["Media"]("shin-sekai-yori", "Shin Sekai Yori", "television", "assets/photos/ssy.jpg", "shin-sekai-yori.html"));
-        // this.mediaDirectory.push(new Media("rottk", "Romance of the Three Kingdoms", "books", "https://i.imgur.com/bNkaVdl.png", "rottk.html"));
+        this.mediaDirectory.push(new _media__WEBPACK_IMPORTED_MODULE_1__["Media"]("rottk", "Romance of the Three Kingdoms", "books", "assets/photos/rotk.jpg", "rottk.html"));
         this.mediaDirectory.push(new _media__WEBPACK_IMPORTED_MODULE_1__["Media"]("logh", "Legend of the Galactic Heroes", "television", "assets/photos/logh.jpg", "logh.html"));
     }
     MediaService.prototype.getMediaDirectory = function () {
