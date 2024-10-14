@@ -1,0 +1,55 @@
+- id: "banality-of-virtue"
+  title: "<i>King Lear</i> and Kurosawa's <i>Ran</i> on the Banality of Virtue"
+  url: "king-lear-kurosawa-ran-banality-virtue.html"
+  date: 2021-12-29
+  format: "html"
+- id: "morality-langya-bang"
+  title: "On the Morality of <i>Nirvana in Fire</i>"
+  url: "morality-langya-bang.html"
+  date: 2021-03-27
+  format: "html"
+- id: "humanity-in-shinsekai-yori"
+  title: "Humanity in <i>Shin Sekai Yori</i>: Defined by Emotion, Empathy, and the Subconscious Mind"
+  url: "humanity-in-shinsekai-yori.html"
+  date: 2019-12-30
+  format: "html"
+- id: "collectivism-and-individualism"
+  title: "Collectivism and Individualism, Progress and Regress, Societal Trajectory and the Individual Will in Science Fiction"
+  url: "collectivism-and-individualism-in-science-fiction.html"
+  date: 2019-04-30
+  format: "html"
+- id: 'collectivism-and-individualism'
+  title: 'Collectivism and Individualism, Progress and Regress, Societal Trajectory and the Individual Will in Science Fiction'
+  url: 'collectivism-and-individualism-in-science-fiction.html'
+  date: '4/30/19'
+  format: "html"
+- id: 'logh-rotk-and-rational-fiction-in-general'
+  title: 'Opposing Systems of Virtue: <i>Legend of the Galactic Heroes</i> and <i>Romance of the Three Kingdoms</i>'
+  url: 'logh-rotk-and-rational-fiction-in-general.html'
+  date: '4/7/18'
+  format: "html"
+- id: 'tensions-between-rationality-realism-and-humanity'
+  title: 'On the Tensions Between Rationality, Realism, and Humanity in <i>HPMOR</i>'
+  url: 'tensions-between-rationality-realism-and-humanity.html'
+  date: '3/31/16'
+  format: "html"
+- id: 'rioting-culture-sacrifice-jhd-dotl'
+  title: 'Rioting and the Culture of Sacrifice in <i>John Henry Days</i> and <i>The Day of the Locust</i>'
+  url: 'rioting-culture-sacrifice-jhd-dotl.html'
+  date: '12/10/14'
+  format: "html"
+- id: 'disconnection-dislocation-james-sa'
+  title: 'Disconnection and Dislocation of Consciousness in Henry James and Zitkála-Šá'
+  url: 'disconnection-dislocation-james-sa.html'
+  date: '10/3/14'
+  format: "html"
+- id: 'inseparability-of-work-and-home-life-in-middlemarch'
+  title: 'The Inseparability of Work and Home Life in <i>Middlemarch</i>'
+  url: 'inseparability-home-work-life-middlemarch.html'
+  date: '4/23/13'
+  format: "html"
+- id: 'liberty-and-servitude-in-jane-eyre'
+  title: 'Liberty and Servitude in <i>Jane Eyre</i>'
+  url: 'liberty-servitude-eyre.md'
+  date: '2/25/13'
+  format: 'markdown'
